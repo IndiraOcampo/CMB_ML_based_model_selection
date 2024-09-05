@@ -1,0 +1,28 @@
+# CEE component
+# 'Ax0', 'correct prediction', 'incorrect prediction'
+1.e-2, 1.0, 0.0
+1.e-3, 1.0, 0.0
+1.e-4, 0.66, 0.34
+1.e-5, 0.4, 0.6
+1.e-6, 0.39, 0.61
+# CTE component
+# 'Ax0', 'correct prediction', 'incorrect prediction'
+1.e-2, 1.0, 0.0
+1.e-3, 0.953, 0.047
+1.e-4, 0.407, 0.593
+1.e-5, 0.403, 0.597
+1.e-6, 0.4, 0.6
+# CTT component
+# 'Ax0', 'correct prediction', 'incorrect prediction'
+1.e-2, 1.0, 0.0
+1.e-3, 0.836, 0.163
+1.e-4, 0.4, 0.6
+1.e-5, 0.4, 0.6
+1.e-6, 0.393, 0.607
+# CEE + CTE+CTT components
+# 'Ax0', 'correct prediction', 'incorrect prediction'
+1.e-2, 1.0, 0.0
+1.e-3, 0.99, 0.01
+1.e-4, 0.563, 0.436
+1.e-5, 0.403, 0.596
+1.e-6, 0.41, 0.59
