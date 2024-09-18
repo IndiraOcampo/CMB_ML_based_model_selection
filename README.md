@@ -1,2 +1,64 @@
-# CMB_ML_based_model_selection
-neural networks to test beyond LCDM models at the level of the CMB angular power spectra
+# CMB Machine Learning based model selection
+
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)  
+
+
+## Table of Contents
+
+- [Overview](#overview)
+- [Description](#Description)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Acknowledgements](#acknowledgements)
+
+---
+
+## Overview
+
+Repository showing how to use Neural Networks (NN) to test beyond $\Lambda$CDM models against Cosmic Microwave Background (CMB) data, at the level of the angular power spectra. All the analysis 
+
+## Description 
+
+The repository is structured as follows. Within the `neural_networks` folder, you can find the folders:
+
+- `modified_gravity`
+- `feature`
+
+Each folder contain the corresponding `jupyter` notebooks 
+
+## Installation
+
+### Prerequisites
+
+- Required software: `python`
+- Dependencies: `numpy`, `matplotlib`, `tensorflow`
+- It is recommended to run the notebooks to train the Neural Networks in a cluster with GPUs
+- The data to train the Neural Networks are found at this [Zenodo]() repository.
+
+### How to get started
+
+```bash
+# Example to get it running
+pip install numpy matplotlib tensorflow
+git clone https://github.com/IndiraOcampo/CMB_ML_based_model_selection.git
+cd neural_networks
+```
+
+## Usage
+
+If you are using the content provided in this repository to do your own analysis, please cite this repository and the manuscript:
+
+TO BE INCLUDED
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/IndiraOcampo/CMB_ML_based_model_selection/blob/main/LICENSE) file for details.
+
+## Acknowledgements
+
+This reaseach acknowledges support from the [ESA Archival Research Visitor Programme](https://www.cosmos.esa.int/web/esdc/visitor-programme): a programme to increase the scientific return from ESA space science missions by supporting scientists interested in pursuing research based on publicly available data in the ESA Space Science Archives. 
+
+This research uses ESA Planck Legacy archives. 
+
+
+
