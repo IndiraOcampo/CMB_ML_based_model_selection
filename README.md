@@ -57,7 +57,7 @@ If you are using the content provided in this repository to do your own analysis
   year = {2024},
   publisher = {GitHub},
   journal = {GitHub repository},
-  howpublished = {\url{https://github.com/IndiraOcampo/CMB_ML_based_model_selection.gi}},
+  howpublished = {\url{https://github.com/IndiraOcampo/CMB_ML_based_model_selection.git}},
 }
 ```
 
