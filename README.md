@@ -2,7 +2,7 @@
 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828966.svg)](https://doi.org/10.5281/zenodo.13828966)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828966.svg)](https://doi.org/10.5281/zenodo.13828967)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13829665.svg)](https://doi.org/10.5281/zenodo.13829665)
 
 
 ## Table of Contents
