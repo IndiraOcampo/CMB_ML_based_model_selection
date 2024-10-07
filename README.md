@@ -50,7 +50,14 @@ cd neural_networks
 
 If you are using the content provided in this repository to do your own analysis, please cite this repository and the manuscript:
 
-TO BE INCLUDED
+@misc{CMB_ML_based_model_selection,
+  author = {Ocampo, I},
+  title = {CMB ML based model selection},
+  year = {2024},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/IndiraOcampo/CMB_ML_based_model_selection.gi}},
+}
 
 ## License
 
@@ -58,9 +65,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgements
 
-This reaseach acknowledges support from the [ESA Archival Research Visitor Programme](https://www.cosmos.esa.int/web/esdc/visitor-programme): a programme to increase the scientific return from ESA space science missions by supporting scientists interested in pursuing research based on publicly available data in the ESA Space Science Archives. 
-
-This research uses ESA Planck Legacy archives. 
+This reaseach acknowledges support from the [ESA Archival Research Visitor Programme](https://www.cosmos.esa.int/web/esdc/visitor-programme): a programme to increase the scientific return from ESA space science missions by supporting scientists interested in pursuing research based on publicly available data in the ESA Space Science Archives.  This work is also supported by
+the fellowship LCF/BQ/DI22/11940033 from “la Caixa” Foundation (ID 100010434). This research uses ESA Planck Legacy archives. 
 
 
 
