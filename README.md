@@ -50,6 +50,7 @@ cd neural_networks
 
 If you are using the content provided in this repository to do your own analysis, please cite this repository and the manuscript:
 
+```bash
 @misc{CMB_ML_based_model_selection,
   author = {Ocampo, I},
   title = {CMB ML based model selection},
@@ -58,6 +59,7 @@ If you are using the content provided in this repository to do your own analysis
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/IndiraOcampo/CMB_ML_based_model_selection.gi}},
 }
+```
 
 ## License
 
