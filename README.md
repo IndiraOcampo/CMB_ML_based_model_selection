@@ -1,6 +1,8 @@
 # CMB Machine Learning based model selection
 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828966.svg)](https://doi.org/10.5281/zenodo.13828966)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828966.svg)](https://doi.org/10.5281/zenodo.13828967)
 
 
 ## Table of Contents
@@ -15,7 +17,7 @@
 
 ## Overview
 
-Repository showing how to use Neural Networks (NN) to test beyond $\Lambda$CDM models against Cosmic Microwave Background (CMB) data, at the level of the angular power spectra. All the analysis 
+Repository showing how to use Neural Networks (NN) to test beyond $\Lambda$CDM models against Cosmic Microwave Background (CMB) data, at the level of the angular power spectra. All the analysis is found within the corresponding jupyter notebooks.
 
 ## Description 
 
@@ -33,7 +35,7 @@ Each folder contain the corresponding `jupyter` notebooks
 - Required software: `python`
 - Dependencies: `numpy`, `matplotlib`, `tensorflow`
 - It is recommended to run the notebooks to train the Neural Networks in a cluster with GPUs
-- The data to train the Neural Networks are found at this [Zenodo]() repository.
+- The data to train the Neural Networks are found at these Zenodo repositories: [modified gravity](https://zenodo.org/records/13828966) and [primordial feature](https://zenodo.org/records/13829665).
 
 ### How to get started
 
