@@ -1,8 +1,10 @@
 # CMB Machine Learning based model selection
 
-![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)  
+![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
+[![arXiv](https://img.shields.io/badge/arXiv-2410.05209-b31b1b.svg)](https://arxiv.org/abs/2410.05209)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828966.svg)](https://doi.org/10.5281/zenodo.13828966)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13829665.svg)](https://doi.org/10.5281/zenodo.13829665)
+
 
 
 ## Table of Contents
@@ -58,6 +60,19 @@ If you are using the content provided in this repository to do your own analysis
   publisher = {GitHub},
   journal = {GitHub repository},
   howpublished = {\url{https://github.com/IndiraOcampo/CMB_ML_based_model_selection.git}},
+}
+```
+
+
+```bash
+@misc{ocampo2024neuralnetworkscosmologicalmodel,
+      title={Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data}, 
+      author={I. Ocampo and G. Cañas-Herrera and S. Nesseris},
+      year={2024},
+      eprint={2410.05209},
+      archivePrefix={arXiv},
+      primaryClass={astro-ph.CO},
+      url={https://arxiv.org/abs/2410.05209}, 
 }
 ```
 
