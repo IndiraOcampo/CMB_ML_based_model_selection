@@ -19,7 +19,7 @@
 1.e-4, 0.4, 0.6
 1.e-5, 0.4, 0.6
 1.e-6, 0.393, 0.607
-# CEE + CTE+CTT components
+# CEE + CTE + CTT components
 # 'Ax0', 'correct prediction', 'incorrect prediction'
 1.e-2, 1.0, 0.0
 1.e-3, 0.99, 0.01
