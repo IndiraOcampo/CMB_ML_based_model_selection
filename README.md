@@ -1,4 +1,4 @@
-# CMB Machine Learning based model selection
+# CMB Machine Learning based model selection and interpretability
 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.05209-b31b1b.svg)](https://arxiv.org/abs/2410.05209)
