@@ -35,7 +35,7 @@ Each folder contain the corresponding `jupyter` notebooks
 ### Prerequisites
 
 - Required software: `python`
-- Dependencies: `numpy`, `matplotlib`, `tensorflow`
+- Dependencies: `numpy`, `matplotlib`, `tensorflow`, `shap`
 - It is recommended to run the notebooks to train the Neural Networks in a cluster with GPUs
 - The data to train the Neural Networks are found at these Zenodo repositories: [modified gravity](https://zenodo.org/records/13828966) and [primordial feature](https://zenodo.org/records/13829665).
 
