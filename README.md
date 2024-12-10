@@ -19,7 +19,7 @@
 
 ## Overview
 
-Repository showing how to use Neural Networks (NN) to test beyond $\Lambda$CDM models against Cosmic Microwave Background (CMB) data, at the level of the angular power spectra. All the analysis is found within the corresponding jupyter notebooks.
+Repository showing how to use Neural Networks (NN) to test beyond ΛCDM models against Cosmic Microwave Background (CMB) data, at the level of the angular power spectra. All the analysis is found within the corresponding jupyter notebooks.
 
 ## Description 
 
