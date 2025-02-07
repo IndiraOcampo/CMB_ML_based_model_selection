@@ -89,7 +89,7 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 ## Acknowledgements
 
 This reaseach acknowledges support from the [ESA Archival Research Visitor Programme](https://www.cosmos.esa.int/web/esdc/visitor-programme): a programme to increase the scientific return from ESA space science missions by supporting scientists interested in pursuing research based on publicly available data in the ESA Space Science Archives.  This work is also supported by
-the fellowship LCF/BQ/DI22/11940033 from “la Caixa” Foundation (ID 100010434). This research uses ESA Planck Legacy archives. 
+the fellowship LCF/BQ/DI22/11940033 from “la Caixa” Foundation (ID 100010434) and acknowledges the use of the Finis Terrae III Supercomputer which was financed by the Ministry of Science and Innovation, Xunta de Galicia and ERDF (European Regional Development Fund). This research uses ESA Planck Legacy archives. 
 
 
 
