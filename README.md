@@ -66,15 +66,20 @@ If you are using the content provided in this repository to do your own analysis
 
 
 ```bash
-@misc{ocampo2024neuralnetworkscosmologicalmodel,
-      title={Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data}, 
-      author={I. Ocampo and G. Cañas-Herrera and S. Nesseris},
-      year={2024},
-      eprint={2410.05209},
-      archivePrefix={arXiv},
-      primaryClass={astro-ph.CO},
-      url={https://arxiv.org/abs/2410.05209}, 
+@article{Ocampo_2025,
+doi = {10.1088/1475-7516/2025/02/004},
+url = {https://dx.doi.org/10.1088/1475-7516/2025/02/004},
+year = {2025},
+month = {feb},
+publisher = {IOP Publishing},
+volume = {2025},
+number = {02},
+pages = {004},
+author = {Ocampo, I. and Cañas-Herrera, G. and Nesseris, S.},
+title = {Neural Networks for cosmological model selection and feature importance using Cosmic Microwave Background data},
+journal = {Journal of Cosmology and Astroparticle Physics}.
 }
+
 ```
 
 ## License
