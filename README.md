@@ -2,6 +2,7 @@
 
 ![License Badge](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 [![arXiv](https://img.shields.io/badge/arXiv-2410.05209-b31b1b.svg)](https://arxiv.org/abs/2410.05209)
+[![DOI](https://iopscience.iop.org/article/10.1088/1475-7516/2025/02/004)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13828966.svg)](https://doi.org/10.5281/zenodo.13828966)
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.13829665.svg)](https://doi.org/10.5281/zenodo.13829665)
 
